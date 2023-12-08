@@ -1,0 +1,7 @@
+.Container{ display: "flex"; flex-direction: "column"; }
+.Header{ padding: "10px 20px"; text-align: "center"; color: "#000"; }
+.LabelContainer{ display: "flex"; justify-content: "center"; align-items: "center";}
+.Label{ padding: "10px 20px"; text-align: "center"; color: "blue"; }
+.FormContainer{display: "flex"; justify-content: "center"; align-items: "center";}
+.InputStyle{ padding: "10px 20px"; text-align: "center"; color: "blue"; margin-right: "10px";}
+.ButtonStyle{padding: "10px 20px"; text-align: "center";  color: "blue"; }
